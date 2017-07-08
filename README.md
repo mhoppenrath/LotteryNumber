@@ -1,0 +1,2 @@
+# LotteryNumber
+Lottery Number Generator
